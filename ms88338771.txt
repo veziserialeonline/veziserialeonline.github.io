@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "veziserialeonline.github.io",
+  "Id": "d8ce6601-43a4-4517-9895-95f47ccb5666"
+}
